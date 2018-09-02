@@ -1,0 +1,1 @@
+In order to solve the problem, first we need to separate the components of the sentence. This can be acheived with the help of spacy. To create a knowledge graph, we need to use scikit-kge.
